@@ -2,3 +2,8 @@
 
 Go implementation of some cryptographic primitives (that fit inside the SNARK field) used in iden3
 
+make install
+
+运行 verify
+
+根据sdk的json文件内容，在编译的二进制文件同目录下维护sign.json
